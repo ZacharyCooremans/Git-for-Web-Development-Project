@@ -32,23 +32,37 @@ link to finished codepen https://codepen.io/BritHemming/full/jONmxOm
     15. How do I reference an id?
         To select an element with a specific id, write a hash (#) character, followed by the id of the element.
     16. What is the difference between a section and a div
-        
+        The section tag defines sections in a document like chapters, headers, footers whereas div tag defines a division in an HTML document.
     17. What is CSS used for? 
+        CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts.
     18. How to we select an element? Example - every h2 on the page
+        h2{something: something}
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
         A class name can be used by multiple HTML elements, while an id name must only be used by one HTML element within the page. Id is best used when trying to apply CSS properties to that one attributed. Class is when you have to use CSS properties in many locations.
     20. How do we select classes in CSS?
+        .className{something: something}
     21. How do we select a p element with a single class of “human””?
+        p.human{something: something}
     22. What is a parent child selector? When would this be useful? 
+        Selects all elements that are a direct child of the specified element. Helps change certain elements in that section without changing all of them.
     23. How do you select all links within a div with the class of sidebar?
+        #sidebar a{}
     24. What is a pseudo selector?
+        Is a selector that selects elements that are in a specific state, e.g. they are the first element of their type, or they are being hovered over by the mouse pointer.
     25. What do we use the change the spacing between lines?
+        line-height:1.5;
     26. What do we use to change the spacing between letters?
+        letter-spacing:2;
     27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
+        text-transform:capitalize/lowercase;
     28. How do I add a 1px border around my div that is dotted and black?
-    29. How do I select everything on the page? 
+        .divname{border: 1px dotted black;}
+    29. How do I select everything on the page?
+        *{something} 
     30. How do I write a comment in CSS?
+        /*The comment you want to make*/
     31. How do I find out what file I am in, when I am using the command line? 
+        
     32. Using the command line - how do I see a list of files/folders in my current folder?
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
     34. Why should I use version control? 
