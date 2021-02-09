@@ -6,10 +6,15 @@ link to finished codepen https://codepen.io/BritHemming/full/jONmxOm
     2. What is HTML used for? 
         It's used for the structure of our websites
     3. What is an attribute and where do we put it? 
+        They are special words inside the opening tag to tell the element what to do. In the HTML.
     4. What is the h1 tag used for? How many times should I use it on a page?
+        It is the most important information on the page and should only be used once.
     5. Name two tags that have required attributes
+        The img tag for pictures and the link tag for links.
     6. What do we put in the head of our HTML document? 
+        The head tag.
     7. What is an id? 
+        
     8. What elements can I add an id to? 
     9. How many times can I use the same id on a page? 
     10. What is a class? 
